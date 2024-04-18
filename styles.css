@@ -38,7 +38,7 @@ header {
 .dropdown {
     display: none;
     position: absolute;
-    background-color: #006400; /* Dark green */
+    background-color: #000080; /* Dark green */
     padding: 10px;
     margin-top: 5px;
     text-align: left;
